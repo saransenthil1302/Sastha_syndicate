@@ -1,0 +1,73 @@
+.details{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 30%;
+    margin:0 auto;
+    font-size: 18px;
+    font-weight: 400;
+}
+.main *{
+    font-family: "Poppins",sans-serif;
+    color:black;
+   
+    letter-spacing: 0.5px;
+}
+.details-sub{
+    display: flex;
+    flex-flow: row wrap;
+    column-gap: 2rem;
+}
+.details button{
+    width: 80px;
+    padding: 0.2rem 1rem;
+    background-color:rgb(250, 164, 4);
+    color: #080710;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+}
+.edit-form{
+    width: 30%;
+    margin:0 auto;
+    display: flex;
+    flex-direction: column;
+    border: 3px solid rgb(150, 143, 143);
+    background-color: rgba(255,255,255,0.13);
+    justify-content: space-around;
+    padding: 2rem;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 80px;
+}
+.edit-form input{
+    width: 100%;
+    border: 2px solid rgb(150, 143, 143);
+    border-radius: 2px;
+    height: 50px;
+    font-size: 20px;
+}
+.edit-form button{
+   margin-top: 1rem;
+    width: 100%;
+    height: 50px;
+    padding: 0.2rem 1rem;
+    background-color:rgb(250, 164, 4);
+    color: #080710;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+}
+.detailsbutton{
+    background-color:rgb(250, 164, 4);
+}
+
+.right-side-user-detail{
+    display: flex;
+    width:25px;
+}

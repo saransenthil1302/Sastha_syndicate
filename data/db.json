@@ -1,0 +1,228 @@
+    {
+      "productName": "AIRCONDITIONER",
+      "productPrice": "1322",
+      "productAvailableDays": 75,
+      "productCategory": "ELECTRICALAPPLIANCES",
+      "productAvailability": true,
+      "productImageUrl": "https://cdn.pixabay.com/photo/2021/09/08/07/20/air-conditioner-6605973__340.jpg",
+      "id": "98b54091-eee4-4cfb-9523-791cbeb6f5e2"
+    },
+    {
+      "productName": "WASHINGMACHINE",
+      "productPrice": "1000",
+      "productAvailableDays": 81,
+      "productCategory": "ELECTRICALAPPLIANCES",
+      "productAvailability": true,
+      "productImageUrl": "https://www.ifbappliances.com/media/catalog/product/cache/f6d60de4095a6e5204f81c04aa5b766f/e/x/executive_mxs_id_1014_front300.png",
+      "id": "d2586b03-d897-4246-be87-05b2acfc8949"
+    },
+    {
+      "productName": "REFRIGERATORS",
+      "productPrice": "1200",
+      "productAvailableDays": 32,
+      "productAvailability": true,
+      "productImageUrl": "https://www.mylloyd.com/media/products/zoom28.jpg",
+      "productCategory": "ELECTRICALAPPLIANCES",
+      "id": "c3b16a19-630c-49c2-a02b-918112fbda4d"
+    },
+    {
+      "productName": "ACMOTORS",
+      "productPrice": "100",
+      "productAvailableDays": 88,
+      "productAvailability": false,
+      "productImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ac-elektromotor-robuster-asynchronmotor.jpg",
+      "productCategory": "ELECTRICALAPPLIANCES",
+      "id": "ffb79ca8-acfe-45ba-9f52-8f486b0e7aa7"
+    },
+    {
+      "productName": "DCMOTORS",
+      "productPrice": "1200",
+      "productAvailableDays": 57,
+      "productAvailability": true,
+      "productImageUrl": "https://robu.in/wp-content/uploads/2021/08/IMG_0421-scaled.jpg",
+      "productCategory": "ELECTRICALAPPLIANCES",
+      "id": "1fbddcc9-4bcf-4b64-ba26-5ce5713bae02"
+    },
+    {
+      "productName": "JUKI MFD47605U",
+      "productPrice": "2000",
+      "productAvailableDays": 96,
+      "productAvailability": true,
+      "productImageUrl": "https://i0.wp.com/textilelearner.net/wp-content/uploads/2012/02/Flat-Lock-Sewing-Machine.jpg?resize=500%2C333&ssl=1",
+      "productCategory": "MACHINERY",
+      "id": "1ef72c23-b984-461d-9a94-4d99b45ff55d"
+    },
+    {
+      "productName": "SINGER(PROMISE)",
+      "productPrice": "2000",
+      "productAvailableDays": 9,
+      "productAvailability": true,
+      "productImageUrl": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51HPNP23OHL._SL1200_.jpg",
+      "productCategory": "MACHINERY",
+      "id": "e9431acc-bbea-4067-9f8d-dc9e2d35a34b"
+    },
+    {
+      "productName": "NOVEL 10,OVERLOCK",
+      "productPrice": "2000",
+      "productAvailableDays": 35,
+      "productAvailability": true,
+      "productImageUrl": "https://images.jdmagicbox.com/quickquotes/images_main/novel_overlock_sewing_machine_14002722_0.jpg",
+      "productCategory": "MACHINERY",
+      "id": "b40dfa33-be78-432a-90bf-e87601b77285"
+    },
+    {
+      "productName": "1-NEEDLE THREAD TRIMMER SEWING MACHINE (KM-235 SERIES)",
+      "productPrice": "1500",
+      "productAvailableDays": "535",
+      "productCategory": "MACHINERY",
+      "productImageUrl": "https://5.imimg.com/data5/FH/UO/MY-228622/high-speed-1-needle-thread-trimmer-sewing-machine-500x500.jpg",
+      "productAvailability": true,
+      "id": "4741e9a8-1e57-4076-8ca6-00e7ba3ca822"
+    },
+    {
+      "productName": "BROTHER-ZIGZAG-STITCHING_MACHINE",
+      "productPrice": "1900",
+      "productAvailableDays": 20,
+      "productCategory": "MACHINERY",
+      "productImageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/1/QZ/RZ/OZ/22256314/brother-zigzag-stitching-sewing-machine-500x500.jpg",
+      "productAvailability": true,
+      "id": "4621b24c-84a8-4fb1-a33b-6a2b16b93176"
+    },
+    {
+      "productName": "JUKI AUTOMATIC KAJA MACHINE",
+      "productPrice": "2000",
+      "productAvailableDays": 56,
+      "productAvailability": false,
+      "productImageUrl": "https://5.imimg.com/data5/BF/YV/MY-9622631/juki-kaj-button-machine-500x500.jpg",
+      "productCategory": "MACHINERY",
+      "id": "759c84b6-20f1-450a-96c8-e0afa0627d99"
+    },
+    {
+      "productName": "CLOTH CUTTING MACHINE",
+      "productPrice": "1000",
+      "productAvailableDays": 49,
+      "productAvailability": false,
+      "productImageUrl": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/6149+cPGdsL._SL1500_.jpg",
+      "productCategory": "MACHINERY",
+      "id": "13"
+    },
+    {
+      "productName": "CLOTH DYEING MACHINE",
+      "productPrice": "3000",
+      "productAvailableDays": 30,
+      "productAvailability": false,
+      "productImageUrl": "https://3.imimg.com/data3/WB/YE/MY-2650311/airjet-fabric-dyeing-machine-textile-processing-machine-500x500.jpg",
+      "productCategory": "ELECTRICALAPPLIANCES",
+      "id": "4f33ece0-9ab4-43cd-8326-5494c68f93c2"
+    }
+  ],
+  "bidsAcquired": [
+    {
+      "id": "4621b24c-84a8-4fb1-a33b-6a2b16b93176",
+      "product": {
+        "productPrice": "1900",
+        "productAvailableDays": 20,
+        "productImageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/1/QZ/RZ/OZ/22256314/brother-zigzag-stitching-sewing-machine-500x500.jpg"
+      },
+      "bid": [
+        {
+          "bidderId": "6d2e5ef0-2fc7-410f-8e67-3ac9a3663b22",
+          "bidderName": "sam",
+          "bidderBiddedAmount": "2000",
+          "bidderRequiredDays": "20",
+          "fromDate": "2023-03-28",
+          "toDate": "2023-04-17",
+          "approveToRent": false
+        },
+        {
+          "bidderId": "6d2e5ef0-2fh7-410f-8e67-3ac9a3663b3c",
+          "bidderName": "kom",
+          "bidderBiddedAmount": "2000",
+          "bidderRequiredDays": "20",
+          "fromDate": "2023-03-28",
+          "toDate": "2023-04-17",
+          "approveToRent": false
+        }
+      ],
+      "approval": true
+    },
+    {
+      "id": "98b54091-eee4-4cfb-9523-791cbeb6f5e2",
+      "approval": false,
+      "product": {
+        "productPrice": "1322",
+        "productAvailableDays": 75,
+        "productImageUrl": "https://cdn.pixabay.com/photo/2021/09/08/07/20/air-conditioner-6605973__340.jpg"
+      },
+      "bid": [
+        {
+          "bidderId": "6d2e5ef0-2fc7-410f-8e67-3ac9a3663b22",
+          "bidderName": "sam",
+          "bidderBiddedAmount": "1322",
+          "bidderRequiredDays": "75",
+          "fromDate": "2023-03-27",
+          "toDate": "2023-06-10",
+          "approveToRent": false
+        }
+      ]
+    }
+  ],
+  "rented": [
+    {
+      "id": "b40dfa33-be78-432a-90bf-e87601b77285",
+      "product": {
+        "productPrice": "2000",
+        "productAvailableDays": 35,
+        "productImageUrl": "https://images.jdmagicbox.com/quickquotes/images_main/novel_overlock_sewing_machine_14002722_0.jpg"
+      },
+      "bid": [
+        {
+          "bidderId": "ggg",
+          "bidderName": "sam",
+          "bidderBiddedAmount": "2000",
+          "bidderRequiredDays": "200",
+          "fromDate": "2023-03-25",
+          "toDate": "2023-10-11",
+          "approveToRent": true
+        }
+      ],
+      "approval": true
+    }
+  ],
+  "user": [
+    {
+      "id": "6d2e5ek0-2fc7-410f-8e67-3ac9a3663b3c",
+      "userName": "tom",
+      "userEmail": "tom@gmail.com",
+      "userPassword": "hello",
+      "userPhoneNo": "9965734254",
+      "userBidsAcquired": []
+    },
+    {
+      "id": "6d2e5ef0-2fc7-410f-8e67-3ac9a3663b22",
+      "userName": "sam",
+      "userEmail": "sam@gmail.com",
+      "userPassword": "hello",
+      "userPhoneNo": "6374433139",
+      "userBidsAcquired": [
+        "ffb79ca8-acfe-45ba-9f52-8f486b0e7aa7"
+      ]
+    },
+    {
+      "id": "6d2e5ef0-2fh7-410f-8e67-3ac9a3663b3c",
+      "userName": "kom",
+      "userEmail": "kom@gmail.com",
+      "userPassword": "hello",
+      "userPhoneNo": "6374433779",
+      "userBidsAcquired": []
+    },
+    {
+      "id": "6d2e5ef0-2f77-410f-8e67-3ac9a3663b3c",
+      "userName": "raina",
+      "userEmail": "raina@gmail.com",
+      "userPassword": "hello",
+      "userPhoneNo": "6374433779",
+      "userBidsAcquired": []
+    }
+  ]
+}

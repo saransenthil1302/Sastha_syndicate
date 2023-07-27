@@ -1,0 +1,151 @@
+*{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+
+
+/* Table Styles */
+
+.table-wrapper{
+    margin: 10px 70px 70px;
+    /* box-shadow: 0px 35px 50px rgba( 0, 0, 0, 0.2 ); */
+}
+
+.admin_table {
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: normal;
+    border: none;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 100%;
+    white-space: nowrap;
+    background-color: white;
+}
+
+.admin_table td, .admin_table th {
+    text-align: center;
+    padding: 8px;
+    height: 50px;
+}
+
+.admin_table td {
+    border-right: 1px solid #f8f8f8;
+    font-size: medium;
+}
+
+.admin_table thead td {
+    color: #ffffff;
+    background: #324960;
+}
+
+
+
+
+.admin_table tr:nth-child(even) {
+    background: rgba(250, 164, 4, 0.282);
+}
+.form_add_field{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ .Admin_Panel input,select{
+    display: block;
+    height: 50px;
+    width: 50%;
+    background-color: rgba(255,255,255,0.07);
+    border-radius: 3px;
+    padding: 0 10px;
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 300;
+    
+    
+}
+.Admin_Panel button{
+    margin-top: 30px; 
+   width: 50%;
+   background-color:rgba(250, 164, 4, 0.605);
+   color: #080710;
+   padding: 15px 0;
+   font-size: 18px;
+   font-weight: 600;
+   border-radius: 5px;
+   cursor: pointer;
+   text-align: center;
+}
+
+
+
+@media (max-width: 767px) {
+    .admin_table {
+        display: block;
+        width: 100%;
+    }
+    .table-wrapper:before{
+       
+        display: block;
+        text-align: right;
+        font-size: 11px;
+        color: white;
+        padding: 0 0 10px;
+    }
+    .admin_table thead, .admin_table tbody, .admin_table thead td {
+        display: block;
+    }
+    .admin_table thead td:last-child{
+        border-bottom: none;
+    }
+    .admin_table thead td {
+        color: #ffffff;
+        background:rgb(250, 164, 4);
+    }
+    .admin_table thead {
+        float: left;
+        
+    }
+    .admin_table tbody {
+        width: auto;
+        position: relative;
+        overflow-x: auto;
+    }
+    .admin_table td, .admin_table th {
+        padding: 20px .625em .625em .625em;
+        height: 60px;
+        vertical-align: middle;
+        box-sizing: border-box;
+        overflow-x: hidden;
+        overflow-y: auto;
+        width: 120px;
+        font-size: 13px;
+        text-overflow: ellipsis;
+    }
+    .admin_table thead td {
+        text-align: left;
+        border-bottom: 1px solid #f7f7f9;
+       
+    }
+    .admin_table tbody tr {
+        display: table-cell;
+    }
+    .admin_table tbody tr:nth-child(odd) {
+        background: none;
+    }
+    .admin_table tr:nth-child(even) {
+        background: transparent;
+    }
+    .admin_table tr td:nth-child(odd) {
+        background: #F8F8F8;
+        border-right: 1px solid #E6E4E4;
+    }
+    .admin_table tr td:nth-child(even) {
+        border-right: 1px solid #E6E4E4;
+    }
+    .admin_table tbody td {
+        display: block;
+        text-align: center;
+    }
+}

@@ -1,0 +1,79 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: space-around;
+    max-width:298px;
+    margin:1rem; 
+    
+  }
+   
+   
+
+.card-image{
+    display: inline;
+    width: 290px;
+    height: 200px;
+    border-radius: 10px;
+    
+}
+.content{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.card-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:flex-start; 
+    font-weight: bolder;
+    font-size:1.5rem;
+    text-shadow: 0 0 20px white;
+}
+.footer{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+   
+    margin-top: -0.6rem;
+}
+.price-button{
+    padding: 6px;
+    width: 130px;
+    background-color:rgb(246, 250, 246);
+    color:black;
+    border:1px solid rgb(50, 235, 84);
+    border-radius: 4px;
+   
+    
+
+}
+.bid-button{
+    padding: 6px;
+    width: 120px;
+    background-color: white;
+    color:red;
+    border:3px solid red;
+    border-radius: 4px;
+   
+}
+.card-heart{
+    font-size:1.5rem;
+    margin-top:-1.6rem;
+    margin-right: 2rem;
+    border:none;
+    background-color: transparent;
+    color: rgb(21, 20, 20);
+}
+.card-heart-color{
+    
+    color:red;
+}
+.MainCard-Row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
